@@ -16,12 +16,10 @@
 <div align="center">
   <table border="0" style="border-collapse: separate; border-spacing: 0; background-color: #050505; border-left: 4px solid #00F0FF; border-right: 4px solid #FF003C; color: #A9B2C3;" width="85%">
     <tr>
-      <!-- Hologram & Spinning HUD -->
+      <!-- Hologram Face -->
       <td align="center" width="30%" style="padding: 15px; border-top: 1px solid #00F0FF; border-bottom: 1px solid #00F0FF;">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4YjVkNzE0NTg3MjRjNzM1MTE0Y2QwYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZq/26tn33aiTi1jSqZ4Q/giphy.gif" width="160" alt="Blue Hologram Anatomy">
-        <br>
-        <img src="https://media.giphy.com/media/l41lOebXsEq8Lh0nC/giphy.gif" width="100" alt="Spinning HUD">
-        <br>
+        <img src="https://i.gifer.com/origin/f1/f1a737e4cfba336f974af05abab62c8f_w200.gif" width="130" alt="Hologram Face" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 5px; background-color: #000;">
+        <br><br>
         <code style="color: #00F0FF;">> BIO_SCAN_PASS</code>
       </td>
       <td width="70%" style="padding: 20px; border-top: 1px solid #FF003C; border-bottom: 1px solid #FF003C; text-align: left;">
@@ -53,7 +51,7 @@
       <td width="30%" align="center" style="padding-left: 15px;">
         <code style="color: #FF003C;">> LIVE_SERVER_FEED</code>
         <br><br>
-        <img src="https://media.giphy.com/media/VwXcgwGIPyiiY/giphy.gif" width="180" style="border: 2px solid #FF003C; border-radius: 5px;" alt="Matrix Rain">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jSqZ4Q/giphy.gif" width="180" style="border: 2px solid #FF003C; border-radius: 5px;" alt="Matrix Rain">
       </td>
     </tr>
   </table>
