@@ -10,7 +10,6 @@
 <div align="center">
   <table border="0" style="border-collapse: separate; border-spacing: 0; background-color: #050505; border-left: 4px solid #00F0FF; border-right: 4px solid #FF003C; color: #A9B2C3;" width="85%">
     <tr>
-      <!-- Hologram Face (Local Asset) -->
       <td align="center" width="30%" style="padding: 15px; border-top: 1px solid #00F0FF; border-bottom: 1px solid #00F0FF;">
         <img src="holoface.gif" width="300" alt="Human Hologram Face" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 5px; background-color: #000;">
       </td>
@@ -29,7 +28,6 @@
 
 <br>
 
-<!-- Dual Monitor Setup: Snake Tracker + Live Matrix Feed -->
 <div align="center">
   <table border="0" width="85%" style="background-color: transparent;">
     <tr>
