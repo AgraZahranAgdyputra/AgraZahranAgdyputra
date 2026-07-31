@@ -17,9 +17,9 @@
       <td width="70%" style="padding: 20px; border-top: 1px solid #FF003C; border-bottom: 1px solid #FF003C; text-align: left;">
         <h2 style="color: #FF003C; margin-top: 0;">[ DOSSIER: AGRA ]</h2>
         <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
-          <li><strong style="color: #00F0FF;">ROLE:</strong> Frontend Architect & Interface Engineer</li>
-          <li><strong style="color: #00F0FF;">CORE_SYSTEMS:</strong> React.js, Next.js, Tailwind CSS</li>
-          <li><strong style="color: #00F0FF;">VISUAL_PROTOCOL:</strong> Minimalist Agency Emblems & Geometric Vectors</li>
+          <strong style="color: #00F0FF;">ROLE:</strong> Frontend Architect & Interface Engineer<br>
+          <strong style="color: #00F0FF;">CORE_SYSTEMS:</strong> React.js, Next.js, Tailwind CSS<br>
+          <strong style="color: #00F0FF;">VISUAL_PROTOCOL:</strong> Minimalist Agency Emblems & Geometric Vectors
         </ul>
         <hr style="border: 0; border-bottom: 1px dashed #FF003C;">
       </td>
