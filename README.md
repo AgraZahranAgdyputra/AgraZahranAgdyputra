@@ -6,33 +6,26 @@
 
 <br>
 
-
-<br>
-
 <div align="center">
-  <details>
-    <summary><code>[ PRESS TO DECRYPT OPERATIVE DOSSIER ]</code></summary>
-    <br>
-    <table border="1" style="border-collapse: collapse; border-color: #00FF00; color: #A9B2C3; background-color: #0D1117;" width="80%">
-      <tr>
-        <td align="center" width="25%">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg3ZTIzZDUwYjNjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZq/3o7TksdHXdGhljQxO0/giphy.gif" width="120" alt="Scanner Radar">
-          <br>
-          <code>ID: AGRA</code>
-        </td>
-        <td width="75%">
-          <ul style="list-style-type: square;">
-            <li><strong>CLASSIFICATION:</strong> Frontend Architect & Visual Systems Specialist</li>
-            <li><strong>PRIMARY DIRECTIVE:</strong> Constructing highly secure, globally scalable interfaces utilizing Next.js, React, and Tailwind CSS.</li>
-            <li><strong>TACTICAL SKILLS:</strong> Precision engineering of geometric vector layouts and minimalist agency-grade emblems.</li>
-            <li><strong>ADVANCED TRAINING:</strong> Iterative prompt engineering for high-fidelity AI image generation and lighting composition.</li>
-            <li><strong>FIELD INTERESTS:</strong> High-performance telemetry and endurance mechanics, specifically Porsche and Ferrari GT racing series.</li>
-          </ul>
-        </td>
-      </tr>
-    </table>
-  </details>
+  <table border="0" style="border-collapse: separate; border-spacing: 0; background-color: #050505; border-left: 4px solid #00F0FF; border-right: 4px solid #FF003C; color: #A9B2C3;" width="85%">
+    <tr>
+      <td align="center" width="30%" style="padding: 15px; border-top: 1px solid #00F0FF; border-bottom: 1px solid #00F0FF;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4YjVkNzE0NTg3MjRjNzM1MTE0Y2QwYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZq/26tn33aiTi1jSqZ4Q/giphy.gif" width="180" alt="Blue Hologram Anatomy"><br><br><code style="color: #00F0FF;">> BIO_SCAN_PASS</code>
+      </td>
+      <td width="70%" style="padding: 20px; border-top: 1px solid #FF003C; border-bottom: 1px solid #FF003C; text-align: left;">
+        <h2 style="color: #FF003C; margin-top: 0;">[ DOSSIER: AGRA ]</h2>
+        <ul style="list-style-type: none; padding-left: 0; line-height: 1.8;">
+          <li><strong style="color: #00F0FF;">ROLE:</strong> Frontend Architect & Interface Engineer</li>
+          <li><strong style="color: #00F0FF;">CORE_SYSTEMS:</strong> React.js, Next.js, Tailwind CSS</li>
+          <li><strong style="color: #00F0FF;">VISUAL_PROTOCOL:</strong> Minimalist Agency Emblems & Geometric Vectors</li>
+          <li><strong style="color: #00F0FF;">NEURAL_NETWORK:</strong> AI Image Generation & Iterative Prompting</li>
+          <li><strong style="color: #00F0FF;">TELEMETRY:</strong> GT World Challenge, Le Mans, Endurance Mechanics</li>
+        </ul>
+        <hr style="border: 0; border-bottom: 1px dashed #FF003C; margin-top: 15px; margin-bottom: 15px;">
+        <code style="color: #FF003C;">> SYSTEM_OVERRIDE_ACTIVE // NO_TRACE_LEFT</code>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
-
