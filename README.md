@@ -59,3 +59,10 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          <!-- Snake Telemetry System -->
+<div align="center">
+  <br>
+  <code style="color: #00F0FF;">> INITIATING_CONTRIBUTION_TRACKER...</code>
+  <br>
+  <img src="https://raw.githubusercontent.com/AgraZahranAgdyputra/AgraZahranAgdyputra/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
+</div>
