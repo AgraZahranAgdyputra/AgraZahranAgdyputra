@@ -6,38 +6,33 @@
 
 <br>
 
-### CURRENT DIRECTIVES (STATUS)
-
-Accessing main database. Focus directed toward constructing high-security frontend interfaces and precision-based visual systems.
-
-- **Mission Objective:** Engineering robust web architecture for global agency networks.
-- **Core Frameworks:** Developing interfaces utilizing React and Next.js.
-- **Styling Protocol:** Implementing geometric and minimalist layouts via Tailwind CSS.
-- **Visual Intelligence:** Exploring vector-style emblem designs and sophisticated color palettes.
-
----
-
-### WEAPONS OF CHOICE (TECH ARSENAL)
-
-<div align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="60" height="60"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>
-</div>
-
-<br>
-
----
-
-### TELEMETRY DATA (GITHUB STATS)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgraZahranAgdyputra&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=A9B2C3&icon_color=00FF00" alt="Agra's GitHub Stats" />
-</div>
 
 <br>
 
 <div align="center">
-  <i>[ END OF TRANSMISSION ]</i>
+  <details>
+    <summary><code>[ PRESS TO DECRYPT OPERATIVE DOSSIER ]</code></summary>
+    <br>
+    <table border="1" style="border-collapse: collapse; border-color: #00FF00; color: #A9B2C3; background-color: #0D1117;" width="80%">
+      <tr>
+        <td align="center" width="25%">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODg3ZTIzZDUwYjNjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZq/3o7TksdHXdGhljQxO0/giphy.gif" width="120" alt="Scanner Radar">
+          <br>
+          <code>ID: AGRA</code>
+        </td>
+        <td width="75%">
+          <ul style="list-style-type: square;">
+            <li><strong>CLASSIFICATION:</strong> Frontend Architect & Visual Systems Specialist</li>
+            <li><strong>PRIMARY DIRECTIVE:</strong> Constructing highly secure, globally scalable interfaces utilizing Next.js, React, and Tailwind CSS.</li>
+            <li><strong>TACTICAL SKILLS:</strong> Precision engineering of geometric vector layouts and minimalist agency-grade emblems.</li>
+            <li><strong>ADVANCED TRAINING:</strong> Iterative prompt engineering for high-fidelity AI image generation and lighting composition.</li>
+            <li><strong>FIELD INTERESTS:</strong> High-performance telemetry and endurance mechanics, specifically Porsche and Ferrari GT racing series.</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </details>
 </div>
+
+<br>
+
