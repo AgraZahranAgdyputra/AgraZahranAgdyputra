@@ -4,21 +4,15 @@
   </a>
 </div>
 
-<br>
 
-<!-- Animated Laser/Data Divider -->
-<div align="center">
-  <img src="divider.gif" width="85%" height="10" alt="Data Stream Divider">
-</div>
 
-<br>
 
 <div align="center">
   <table border="0" style="border-collapse: separate; border-spacing: 0; background-color: #050505; border-left: 4px solid #00F0FF; border-right: 4px solid #FF003C; color: #A9B2C3;" width="85%">
     <tr>
       <!-- Hologram Face (Local Asset) -->
       <td align="center" width="30%" style="padding: 15px; border-top: 1px solid #00F0FF; border-bottom: 1px solid #00F0FF;">
-        <img src="holoface.gif" width="130" alt="Human Hologram Face" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 5px; background-color: #000;">
+        <img src="holoface.gif" width="300" alt="Human Hologram Face" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 5px; background-color: #000;">
       </td>
       <td width="70%" style="padding: 20px; border-top: 1px solid #FF003C; border-bottom: 1px solid #FF003C; text-align: left;">
         <h2 style="color: #FF003C; margin-top: 0;">[ DOSSIER: AGRA ]</h2>
