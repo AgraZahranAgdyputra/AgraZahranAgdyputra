@@ -21,8 +21,7 @@
           <li><strong style="color: #00F0FF;">NEURAL_NETWORK:</strong> AI Image Generation & Iterative Prompting</li>
           <li><strong style="color: #00F0FF;">TELEMETRY:</strong> GT World Challenge, Le Mans, Endurance Mechanics</li>
         </ul>
-        <hr style="border: 0; border-bottom: 1px dashed #FF003C; margin-top: 15px; margin-bottom: 15px;">
-        <code style="color: #FF003C;">> SYSTEM_OVERRIDE_ACTIVE // NO_TRACE_LEFT</code>
+        <hr style="border: 0; border-bottom: 1px dashed #FF003C;">
       </td>
     </tr>
   </table>
