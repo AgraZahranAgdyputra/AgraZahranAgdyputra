@@ -8,7 +8,7 @@
 
 <!-- Animated Laser/Data Divider -->
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="85%" height="10" alt="Data Stream Divider">
+  <img src="https://i.pinimg.com/originals/5c/b1/d6/5cb1d60dfb1968ed10adbfd6eefbd6eb.gif" width="85%" height="10" alt="Data Stream Divider">
 </div>
 
 <br>
@@ -16,9 +16,9 @@
 <div align="center">
   <table border="0" style="border-collapse: separate; border-spacing: 0; background-color: #050505; border-left: 4px solid #00F0FF; border-right: 4px solid #FF003C; color: #A9B2C3;" width="85%">
     <tr>
-      <!-- Hologram Face -->
+      <!-- Hologram Face (Human Wireframe) -->
       <td align="center" width="30%" style="padding: 15px; border-top: 1px solid #00F0FF; border-bottom: 1px solid #00F0FF;">
-        <img src="https://i.gifer.com/origin/f1/f1a737e4cfba336f974af05abab62c8f_w200.gif" width="130" alt="Hologram Face" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 5px; background-color: #000;">
+        <img src="https://media.tenor.com/G1-xR15s7EIAAAAC/hologram-ai.gif" width="130" alt="Human Hologram Face" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 5px; background-color: #000;">
         <br><br>
         <code style="color: #00F0FF;">> BIO_SCAN_PASS</code>
       </td>
@@ -51,7 +51,7 @@
       <td width="30%" align="center" style="padding-left: 15px;">
         <code style="color: #FF003C;">> LIVE_SERVER_FEED</code>
         <br><br>
-        <img src="https://media.giphy.com/media/26tn33aiTi1jSqZ4Q/giphy.gif" width="180" style="border: 2px solid #FF003C; border-radius: 5px;" alt="Matrix Rain">
+        <img src="https://media.tenor.com/n6gM5lYQn3IAAAAC/matrix.gif" width="180" style="border: 2px solid #FF003C; border-radius: 5px;" alt="Matrix Rain">
       </td>
     </tr>
   </table>
