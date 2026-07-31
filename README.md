@@ -47,7 +47,6 @@
         <img src="https://raw.githubusercontent.com/AgraZahranAgdyputra/AgraZahranAgdyputra/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
       </td>
       <td width="30%" align="center" style="padding-left: 15px;">
-        <code style="color: #FF003C;">> LIVE_SERVER_FEED</code>
         <img src="fetchpik.com-0wLN1RSYPO.gif" width="180" style="border: 2px solid #FF003C; border-radius: 5px;" alt="Matrix Rain">
       </td>
     </tr>
