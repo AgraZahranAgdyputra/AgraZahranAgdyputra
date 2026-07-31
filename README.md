@@ -6,11 +6,23 @@
 
 <br>
 
+<!-- Animated Laser/Data Divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="85%" height="10" alt="Data Stream Divider">
+</div>
+
+<br>
+
 <div align="center">
   <table border="0" style="border-collapse: separate; border-spacing: 0; background-color: #050505; border-left: 4px solid #00F0FF; border-right: 4px solid #FF003C; color: #A9B2C3;" width="85%">
     <tr>
+      <!-- Hologram & Spinning HUD -->
       <td align="center" width="30%" style="padding: 15px; border-top: 1px solid #00F0FF; border-bottom: 1px solid #00F0FF;">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4YjVkNzE0NTg3MjRjNzM1MTE0Y2QwYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZq/26tn33aiTi1jSqZ4Q/giphy.gif" width="180" alt="Blue Hologram Anatomy"><br><br><code style="color: #00F0FF;">> BIO_SCAN_PASS</code>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM4YjVkNzE0NTg3MjRjNzM1MTE0Y2QwYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZjYjZq/26tn33aiTi1jSqZ4Q/giphy.gif" width="160" alt="Blue Hologram Anatomy">
+        <br>
+        <img src="https://media.giphy.com/media/l41lOebXsEq8Lh0nC/giphy.gif" width="100" alt="Spinning HUD">
+        <br>
+        <code style="color: #00F0FF;">> BIO_SCAN_PASS</code>
       </td>
       <td width="70%" style="padding: 20px; border-top: 1px solid #FF003C; border-bottom: 1px solid #FF003C; text-align: left;">
         <h2 style="color: #FF003C; margin-top: 0;">[ DOSSIER: AGRA ]</h2>
@@ -29,10 +41,20 @@
 
 <br>
 
-<!-- Snake Telemetry System -->
+<!-- Dual Monitor Setup: Snake Tracker + Live Matrix Feed -->
 <div align="center">
-  <br>
-  <code style="color: #00F0FF;">> INITIATING_CONTRIBUTION_TRACKER...</code>
-  <br>
-  <img src="https://raw.githubusercontent.com/AgraZahranAgdyputra/AgraZahranAgdyputra/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
+  <table border="0" width="85%" style="background-color: transparent;">
+    <tr>
+      <td width="70%" align="center">
+        <code style="color: #00F0FF;">> INITIATING_CONTRIBUTION_TRACKER...</code>
+        <br>
+        <img src="https://raw.githubusercontent.com/AgraZahranAgdyputra/AgraZahranAgdyputra/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
+      </td>
+      <td width="30%" align="center" style="padding-left: 15px;">
+        <code style="color: #FF003C;">> LIVE_SERVER_FEED</code>
+        <br><br>
+        <img src="https://media.giphy.com/media/VwXcgwGIPyiiY/giphy.gif" width="180" style="border: 2px solid #FF003C; border-radius: 5px;" alt="Matrix Rain">
+      </td>
+    </tr>
+  </table>
 </div>
