@@ -18,9 +18,7 @@
     <tr>
       <!-- Hologram Face (Local Asset) -->
       <td align="center" width="30%" style="padding: 15px; border-top: 1px solid #00F0FF; border-bottom: 1px solid #00F0FF;">
-        <img src="hologram.gif" width="130" alt="Human Hologram Face" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 5px; background-color: #000;">
-        <br><br>
-        <code style="color: #00F0FF;">> BIO_SCAN_PASS</code>
+        <img src="holoface.gif" width="130" alt="Human Hologram Face" style="border: 1px solid #00F0FF; border-radius: 8px; padding: 5px; background-color: #000;">
       </td>
       <td width="70%" style="padding: 20px; border-top: 1px solid #FF003C; border-bottom: 1px solid #FF003C; text-align: left;">
         <h2 style="color: #FF003C; margin-top: 0;">[ DOSSIER: AGRA ]</h2>
@@ -50,8 +48,7 @@
       </td>
       <td width="30%" align="center" style="padding-left: 15px;">
         <code style="color: #FF003C;">> LIVE_SERVER_FEED</code>
-        <br><br>
-        <img src="matrix.gif" width="180" style="border: 2px solid #FF003C; border-radius: 5px;" alt="Matrix Rain">
+        <img src="fetchpik.com-0wLN1RSYPO.gif" width="180" style="border: 2px solid #FF003C; border-radius: 5px;" alt="Matrix Rain">
       </td>
     </tr>
   </table>
