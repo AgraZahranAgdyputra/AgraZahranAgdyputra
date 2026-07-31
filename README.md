@@ -42,7 +42,6 @@
   <table border="0" width="85%" style="background-color: transparent;">
     <tr>
       <td width="70%" align="center">
-        <code style="color: #00F0FF;">> INITIATING_CONTRIBUTION_TRACKER...</code>
         <br>
         <img src="https://raw.githubusercontent.com/AgraZahranAgdyputra/AgraZahranAgdyputra/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
       </td>
