@@ -26,8 +26,6 @@
           <li><strong style="color: #00F0FF;">ROLE:</strong> Frontend Architect & Interface Engineer</li>
           <li><strong style="color: #00F0FF;">CORE_SYSTEMS:</strong> React.js, Next.js, Tailwind CSS</li>
           <li><strong style="color: #00F0FF;">VISUAL_PROTOCOL:</strong> Minimalist Agency Emblems & Geometric Vectors</li>
-          <li><strong style="color: #00F0FF;">NEURAL_NETWORK:</strong> AI Image Generation & Iterative Prompting</li>
-          <li><strong style="color: #00F0FF;">TELEMETRY:</strong> GT World Challenge, Le Mans, Endurance Mechanics</li>
         </ul>
         <hr style="border: 0; border-bottom: 1px dashed #FF003C;">
       </td>
