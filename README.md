@@ -4,8 +4,7 @@
   </a>
 </div>
 
-
-
+<br>
 
 <div align="center">
   <table border="0" style="border-collapse: separate; border-spacing: 0; background-color: #050505; border-left: 4px solid #00F0FF; border-right: 4px solid #FF003C; color: #A9B2C3;" width="85%">
@@ -20,7 +19,30 @@
           <strong style="color: #00F0FF;">CORE_SYSTEMS:</strong> React.js, Next.js, Tailwind CSS<br>
           <strong style="color: #00F0FF;">VISUAL_PROTOCOL:</strong> Minimalist Agency Emblems & Geometric Vectors
         </ul>
-        <hr style="border: 0; border-bottom: 1px dashed #FF003C;">
+        <hr style="border: 0; border-bottom: 1px dashed #FF003C; margin: 15px 0;">
+        <h3 style="color: #00F0FF; margin-top: 0;">[ ARSENAL ]</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=nextdotjs&logoColor=00F0FF" alt="Next.js" />
+          <img src="https://img.shields.io/badge/React-050505?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" />
+          <img src="https://img.shields.io/badge/Tailwind-050505?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind CSS" />
+          <img src="https://img.shields.io/badge/AI_Generation-050505?style=for-the-badge&logo=openai&logoColor=FF003C" alt="AI Tools" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <table border="0" style="border-collapse: separate; border-spacing: 0; background-color: #050505; border: 1px solid #00F0FF; border-radius: 4px; color: #A9B2C3;" width="85%">
+    <tr>
+      <td style="padding: 20px; text-align: left;">
+        <h3 style="color: #00F0FF; margin-top: 0; margin-bottom: 15px;">[ CLASSIFIED OPERATIONS ]</h3>
+        <ul style="list-style-type: square; color: #FF003C; line-height: 1.8; margin-bottom: 0;">
+          <li><span style="color: #A9B2C3;"><strong style="color: #00F0FF;">Global Intelligence Network:</strong> Antarmuka portal web utama yang dibangun menggunakan React, Next.js, dan Tailwind CSS.</span></li>
+          <li><span style="color: #A9B2C3;"><strong style="color: #00F0FF;">Project Night Owl:</strong> Desain emblem agensi berbasis burung hantu minimalis dengan pembatasan geometris presisi tinggi.</span></li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -32,7 +54,6 @@
   <table border="0" width="85%" style="background-color: transparent;">
     <tr>
       <td width="70%" align="center">
-        <br>
         <img src="https://raw.githubusercontent.com/AgraZahranAgdyputra/AgraZahranAgdyputra/output/github-snake-dark.svg" alt="Contribution Snake" width="100%">
       </td>
       <td width="30%" align="center" style="padding-left: 15px;">
